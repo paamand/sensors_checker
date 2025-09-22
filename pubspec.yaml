@@ -2,7 +2,7 @@ name: sensors_checker
 description: "Plugin for detecting sensors availability."
 version: 1.0.0+1
 homepage: https://github.com/paamand/sensors_checker
-publish_to: "none"
+repository: https://github.com/paamand/sensors_checker
 
 environment:
   sdk: ^3.9.2
