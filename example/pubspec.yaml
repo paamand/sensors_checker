@@ -9,5 +9,4 @@ dependencies:
   flutter:
     sdk: flutter
 
-  sensors_checker:
-    path: ../
+  sensors_checker: ^1.0.0
